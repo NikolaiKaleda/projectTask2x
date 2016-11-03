@@ -1,0 +1,22 @@
+{
+  "name": "projectTask2x",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Nikolai Kaleda"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/NikolaiKaleda/projectTask2x",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.css": "*",
+    "jquery": "2.*"
+  }
+}
